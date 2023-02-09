@@ -10,7 +10,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://guileless-melba-0b28ea.netlify.app",
+    origin: "https://celadon-granita-9ca444.netlify.app",
   })
 );
 
